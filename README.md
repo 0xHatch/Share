@@ -1,3 +1,2 @@
 # Share
-
-A repository containing arbitary junk.
+A collection of arbitary payloads for authorised testing engagements.
